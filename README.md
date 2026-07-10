@@ -39,10 +39,3 @@ Two-mode faction governance system. Normal roleplay mode tracks stats invisibly;
 ### [API Explorer](scripts/API_Explorer.js) | [README](scripts/API_Explorer_README.md)
 
 A diagnostic script that introspects available JessicaAI APIs and outputs a summary. Type `/api` for a full report, or `/api tools`, `/api memory`, etc. for specific sections. Safe to leave attached — silent unless activated.
-
-## Planning
-
-- [`planning/scripting-api.md`](planning/scripting-api.md) — JessicaAI Script API reference
-- [`planning/scripting-tools-guide.md`](planning/scripting-tools-guide.md) — Game tools guide (dice, inventory, quests, maps, combat)
-- [`planning/migration-plan.md`](planning/migration-plan.md) — Full evaluation of JanitorAI Scripts and migration plan
-- [`planning/JanitorAI_Scripts/`](planning/JanitorAI_Scripts/) — Archive of original JanitorAI Scripts
